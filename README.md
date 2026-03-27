@@ -1,6 +1,6 @@
 ## Taipei Day Trip
 
-Website URL : https://taipeidaytrip.online/
+Website URL : https://taipeidaytrip.online/ (No longer maintained)
 
 Taipei Day Trip is an e-commerce travel website, implementing features such as attraction keyword search, booking orders, and third-party payment integration.
 
